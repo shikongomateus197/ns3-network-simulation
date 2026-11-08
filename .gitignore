@@ -1,0 +1,14 @@
+# ns-3 build files
+/build/
+/cmake-cache/
+/cmake-build-debug/
+
+# Temporary files
+*.log
+*.swp
+*~
+.DS_Store
+.vscode/
+.idea/
+
+# Keep the project results in Git
