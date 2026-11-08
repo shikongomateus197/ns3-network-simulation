@@ -105,7 +105,7 @@ ns3-network-simulation/
 │   └── shikongo.xml
 │
 └── screenshots/
-    └── netanim-topology.png
+└── netanim-topology.png
 
 
 ## Running the simulation
